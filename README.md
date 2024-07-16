@@ -42,7 +42,7 @@ HugeSmile is an Android application for my blog. It features a maintenance scree
 
 ## Admin Panel
 
-The admin panel for managing notifications and app updates is located in a separate repository. You can find it [here](https://github.com/HugeSmile01/hugesmile-admin-panel).
+The admin panel for managing notifications and app updates is located in a separate repository. You can find it [here] - not available this time.(https://github.com/HugeSmile01/hugesmile-admin-panel).
 
 ## Usage
 
